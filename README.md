@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 it now includes steps for GitHub
 
 line new test the pull action of git
+
+update readme to test push branch to github
+
